@@ -1,0 +1,259 @@
+
+/* ============ mobile view ============ */
+@media(max-width: 991px){
+	
+ .bg_A {
+        background-color: white;
+    }
+
+    .bg_blue {
+        background-color: #14234e;
+        margin-top: 30px;
+    } 
+
+    
+.bg_img_2,.bg_img_3,.bg_img_4,.bg_img_5{
+    background-image: none;
+    
+}
+
+
+.mb_padding1{
+    padding: 0px;
+}
+
+.mb_pt2 {
+    padding-top: 0px;
+}
+
+.content_2{
+    background-color: #14234e;
+    width: 100%;
+}
+
+.content_3{
+    background-color: #14234e;
+    width: 100%;
+
+}
+
+.content_4{
+    background-color: #14234e;
+    width: 100%;
+
+}
+
+.content_5{
+    background-color: #14234e;
+    width: 100%;
+
+}
+
+.mb_mt3{
+    margin-top: 0px;
+}
+
+
+.bg_img_3 {
+    height: auto;  
+}
+
+.bg_img_2 {
+  height: auto;
+}
+
+.bg_img_3 {
+    height: auto;
+  }
+
+  .bg_img_4 {
+    height: auto;
+  }
+
+  .bg_img_5 {
+    height: auto;
+  }
+
+  .mt_125 {
+    margin-top: 0px;
+}
+  
+
+.color_brush img {
+    width: 100%;
+    margin-top: 150PX;
+    margin-left: auto;
+}
+
+.bg_img_2{
+    /* width: 100%; */
+}
+
+.pt_125{
+    padding-top: 0px;
+}
+
+.deer_pic {
+    width: 70%;
+    margin-top: 0px;
+    margin-left: 18%;
+}
+
+.mt_255{
+    margin-top:0px;
+}
+.beauty_pic {
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 18%;
+    margin-bottom: auto;
+}
+
+  .content_5 {
+      text-align: center;
+  }
+
+.content_5 p {
+    text-align: center;
+}
+
+
+.content_2 {
+    text-align: center;
+}
+
+.content_2 h1{
+    margin-left: 0;
+}
+
+.content_2 p {
+  text-align: center;
+}
+
+.btn_1{
+    text-align: center;
+}
+
+.content_3 {
+    text-align: center;
+}
+
+.content_3 h1{
+    margin-left: 0;
+}
+
+.content_3 p {
+  text-align: center;
+}
+
+.btn_2{
+    text-align: center;
+}
+
+.content_4 {
+    text-align: center;
+}
+
+.content_4 h1{
+    text-align: center;
+}
+
+.content_4 p {
+  text-align: center;
+}
+
+.btn_3{
+    text-align: center;
+}
+.client_1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.mt_60{
+    margin-top: 60px;
+}
+
+.mb_60{
+    margin-bottom: 60px;
+}
+
+button, input, optgroup, select, textarea {
+    padding: 0px 0px;
+}
+}
+
+
+@media screen and (max-width: 767px) {
+
+
+    .content_5 {
+        text-align: center;
+    }
+    .content_5 h1,h2{
+        text-align: center;
+    }
+    .content_5 p{
+        text-align: center;
+    } 
+
+    .btn_4{
+        text-align: center;
+    }
+
+    .menu,.menu2,.menu3{
+        text-align: center;
+    }
+
+    .mt_20{
+        margin-top: 20px;
+    }
+
+    .mb_20{
+        margin-bottom: 20px;
+    }
+
+    .content_1 h1 {
+        font-size: 50pt;
+        margin-top: 50px;
+    }
+  
+    .margin {
+        padding: 14.5px;
+    }
+
+    .nav_bar ul li {
+        padding: 18px 21px;
+        font-size: 15pt;
+    }
+
+    .menu {
+        margin-top: 50px;
+    }
+
+    .menu2,.menu3{
+        margin-top: 50px;
+    }
+
+    .btn_5{
+        margin-bottom: 50px;
+    }
+
+    .copy_right{
+        margin-bottom: 50px;
+    }
+
+    .border1 {
+        margin-bottom: 25px;
+    }
+
+    button, input, optgroup, select, textarea {
+        padding: 0px 0px;
+    }
+
+    ul li{
+        list-style: none;
+    }
+    
+}
