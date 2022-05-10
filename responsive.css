@@ -17,6 +17,10 @@
     
 }
 
+.margin {
+    padding: 14.5px;
+}
+
 
 .mb_padding1{
     padding: 0px;
@@ -256,4 +260,13 @@ button, input, optgroup, select, textarea {
         list-style: none;
     }
     
+}
+
+
+@media screen and (max-width: 500px) {
+	
+    .content_1 h1 {
+        font-size: 50pt;
+        margin-top: 73px;
+    }
 }
